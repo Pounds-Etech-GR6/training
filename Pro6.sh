@@ -5,3 +5,4 @@ whoami
 df -h   
 free -m 
 lscpu   
+#trying PR
